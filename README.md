@@ -1,13 +1,6 @@
 # Business-Statistics
 Data Analysis Project
 
-ExcelFile.xlxs containing four sheets named as following Part1-EX1 , Part1-EX2, Part2-EX1, Part2-EX2
--	All files ‘names must be in the form FirstName-AcademicNumber
--	Files to return (to upload) via Blackboard and only will be considered, in any other way, the
-work will be rejected.
--	Any plagiarism from any source worth zero and other consequences
-This project is consisting of two parts, in each part, we give two independent exercises, answers to questions must be written in the doc file and the execution must be done in Excel file, each exercise in separate sheets named by exercise for example: Each sheet name refer to exercise and question: Ex2Q2
-
 
 A Buffalo, New York, cola distributor is featuring a special sale on 12-packs. She wonders where in the grocery store to place the cola for maximum attention. Should it be near the front door of the grocery stores, in the cola section, at the checkout registers, or near the milk and other dairy products? Four stores with similar total sales cooperated in an experiment. In one store, the 12- packs were stacked near the front door, in another they were placed near the checkout registers, and so on. Sales were checked at specified times in each store for exactly four minutes. The results were, The Buffalo distributor wants to find out whether there is a difference in the mean
 sales for cola stacked at the four locations in the store. Use the .05 significance level.
@@ -168,11 +161,6 @@ On EXCEL
 
 
 
-
-Remarks:
-Data will be found in joined in the folder Project containing four Excel files for each exercise, we note that data are different from project to project, so pay attention to use your own project data, if not your work will be automatically rejected.
-We can use the following Excel functions to solve the Exercises of part 2,
-p-value= CHISQ.test(observed, expected) teststat= CHISQ.inv.rt(pvalue,degreeof freedom) critical value=C HISQ (.05,degfreedom)
 
 
 
